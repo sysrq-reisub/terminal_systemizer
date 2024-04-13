@@ -19,7 +19,8 @@ or
  Alternatively, Send `/data/local/tmp/terminal_debloater-verbose.log` in the XDA thread. I'll examine it for problems and will try to fix it.
 
 ## Changelog
-
+### v.17.4.1-1
+* Updated aapt ELF to 64 Bit
 ### v17.4.1
 * More Android 11 support by jenslody
 
